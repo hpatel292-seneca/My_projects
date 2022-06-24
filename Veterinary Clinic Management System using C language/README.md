@@ -1,0 +1,5 @@
+Develop a fully functional pet clinic management system. The features includes it manage contact information patient which include, it has option to search the patient using patient number or phone number, add and remove patients and it has option to update patient details. It also manages appointment details which includes adding appointment according to defined MICRO operational time, it display all appointment in sorted manner according to the time the appointment was given, remove appointment and it also provides the option for searching appointment according to date and time. It reads data from a file and do work on that.  
+There are 3 modules in total in the final project
+1- core module, which contain all the helper functions 
+2- clinic module, which contain all the function for managing data is a main module
+2- a1ms3 is the starting point to the project.
